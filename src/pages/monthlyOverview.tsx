@@ -20,7 +20,7 @@ import { alpha, styled } from '@mui/material/styles';
 
 
 
-export function MonthlyOverview(){
+export default function MonthlyOverview(){
 
 
     // get items from local storage & parse in to array of objects
